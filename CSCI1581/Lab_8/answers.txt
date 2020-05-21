@@ -1,0 +1,5 @@
+1. The .equals method from object is checking if the two objects given are the same object.
+2.a more natural way of checking equality for Point2D would be to check if (X, Y) is equal to (x, y).
+3. the toString method from object is returning the location in memory at which the object resides.
+4. A better way of representing Point2D as a string would be to print out its point (x, y).
+5. This implies that once a method is overriden it becomes absolute.
