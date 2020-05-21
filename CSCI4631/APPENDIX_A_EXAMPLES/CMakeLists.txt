@@ -1,0 +1,5 @@
+if (NOT APPLE)
+	subdirs( WINDOWS_VERSIONS )
+else ()
+	subdirs( MAC_VERSIONS )
+endif ()
